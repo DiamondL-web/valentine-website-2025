@@ -41,8 +41,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Cant wait until you see your gifts and to be with you on valentines day",          // Celebration message
+    title: "Yay! I'm the luckiest person...",     //I LOVE YOUUUUU
+    message: "Cant wait until you see your gifts and to be with you on valentines day",          // PUMPKIN
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
